@@ -10,7 +10,7 @@ function Navbar() {
   };
   return (
     <div className="">
-      <nav className="flex justify-between  bg-[#0b1355] items-center lg:px-40 px-5 py-5  top-0 left-0 fixed w-full">
+      <nav className="flex justify-between  bg-[#0b1355] items-center lg:px-40 px-5 py-5  ">
         <img
           src={Logo}
           alt="image is missing"

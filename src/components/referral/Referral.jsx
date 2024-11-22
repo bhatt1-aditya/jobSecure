@@ -5,7 +5,7 @@ import SignIn from "./SignIn";
 function Referral() {
   return (
     <div className="h-screen w-full bg-[#0b1355]">
-      <div className="flex flex-col justify-center items-center mt-[143px] lg:px-40 px-10">
+      <div className="flex flex-col justify-center items-center lg:px-40 px-10">
         <h1 className="py-10 text-center text-white lg:text-7xl md:text-6xl sm:text-5xl text-4xl font-bold">
           Earn Money While You Job Hunt!
         </h1>
